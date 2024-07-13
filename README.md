@@ -26,7 +26,7 @@ Asegúrate de tener las siguientes herramientas y versiones instaladas en tu má
 Para ejecutar las pruebas automatizadas, sigue estos pasos:
 
 - Abre el proyecto en IntelliJ IDEA.
-- Configura el entorno de ejecución para ejecutar los tests de Cucumber.
+- Configura el entorno de ejecución para ejecutar los tests de karate
 - Ejecuta los tests desde IntelliJ IDEA o utilizando Maven:
 - O dirigete al archivo Resourcers demoblaze.feature
 # src/test/resources/demoblaze.feature
