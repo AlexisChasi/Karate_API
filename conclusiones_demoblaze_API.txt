@@ -1,0 +1,23 @@
+Hallazgos y Conclusiones
+Crear Usuario Exitosamente:
+
+Hallazgo: El usuario puede ser creado correctamente con credenciales únicas.
+Conclusión: La funcionalidad de creación de usuario parece estar implementada correctamente sin errores evidentes.
+Intentar Crear Usuario Existente:
+
+Hallazgo: Se devuelve un mensaje de error indicando que el usuario ya existe.
+Conclusión: La validación para evitar la creación de usuarios duplicados está implementada y funciona según lo esperado.
+Iniciar Sesión Exitosamente:
+
+Hallazgo: Los usuarios con credenciales válidas pueden iniciar sesión correctamente.
+Conclusión: La funcionalidad de inicio de sesión está operativa y permite el acceso a usuarios válidos sin problemas aparentes.
+Intentar Iniciar Sesión con Credenciales Inválidas:
+
+Hallazgo: Se devuelve un mensaje de error indicando que el usuario no existe.
+Conclusión: La validación de inicio de sesión para usuarios que no existen está implementada y funciona como se espera al proporcionar credenciales inválidas.
+Observaciones Adicionales
+Status Codes: Todos los escenarios esperan un código de estado HTTP 200, lo cual es adecuado si la API responde con este código tanto para operaciones exitosas como para errores controlados.
+
+Mensajes de Error: Las respuestas esperadas incluyen la verificación de mensajes de error específicos, lo cual es crucial para garantizar que los errores se manejen adecuadamente y se comuniquen claramente al usuario.
+
+Escenarios de Prueba: Los escenarios cubren tanto casos de éxito como de error, lo cual es esencial para validar la robustez y la seguridad de la API.
