@@ -1,5 +1,5 @@
-# NTTDATA EJERCICIO AUTOMATIZACION
-Este proyecto contiene automatización de pruebas utilizando Selenium WebDriver y Cucumber  NTT DATA.
+# NTTDATA EJERCICIO AUTOMATIZACION API
+Este proyecto contiene automatización de pruebas utilizando Karate 
 
 # Prerequisitos
 Asegúrate de tener las siguientes herramientas y versiones instaladas en tu máquina local:
