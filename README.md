@@ -41,15 +41,14 @@ Para ejecutar las pruebas automatizadas, sigue estos pasos:
 
 el reporte se genera en una carpeta especifica al momento de ejecutar el test
 
-- target/cucumber/cucumber-report.html
+- target/karate-reports/karate-summary.html
 - y se genera con las evidencias por cada paso del gherking
   
-  ![image](https://github.com/user-attachments/assets/ac69c100-79db-4f0f-8316-dd83239cddd4)
-  
-  ![image](https://github.com/user-attachments/assets/5b095503-36a3-4cd4-b40e-6fa8564f8c56)
+ ![image](https://github.com/user-attachments/assets/c55edfcc-bbf4-49d8-8b4d-8e2c0f564ae2)
+
 
 
   
 # Información adicional
 
-Este proyecto utiliza Selenium WebDriver para interactuar con el navegador y Cucumber para escribir y ejecutar escenarios de prueba en lenguaje natural. Asegúrate de tener conexión a Internet durante la ejecución de los tests para cargar recursos externos necesarios.
+Este proyecto utiliza Karate para escribir y ejecutar escenarios de prueba en lenguaje natural. Asegúrate de tener conexión a Internet durante la ejecución de los tests para cargar recursos externos necesarios.
