@@ -43,8 +43,15 @@ el reporte se genera en una carpeta especifica al momento de ejecutar el test
 
 - target/karate-reports/karate-summary.html
 - y se genera con las evidencias por cada paso del gherking
+- Al finalizar la ejecución de los tests, se genera un path para el reporte en la consola. Puedes hacer "Ctrl + Click" en este path para abrir directamente el reporte en tu navegador.
   
  ![image](https://github.com/user-attachments/assets/c55edfcc-bbf4-49d8-8b4d-8e2c0f564ae2)
+
+ ![image](https://github.com/user-attachments/assets/393b3df2-e5c9-45c7-a8d9-3e8c48aeb668)
+
+ ![image](https://github.com/user-attachments/assets/708f8a5c-4edc-4438-a2b1-76bd0cdb9a04)
+
+
 
 
 
