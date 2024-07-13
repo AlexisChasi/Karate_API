@@ -30,10 +30,10 @@ Para ejecutar las pruebas automatizadas, sigue estos pasos:
 - Ejecuta los tests desde IntelliJ IDEA o utilizando Maven:
 - O dirigete al archivo Resourcers demoblaze.feature
 # src/test/resources/demoblaze.feature
- 
-- ![image](https://github.com/user-attachments/assets/13d55719-4c7d-4bc9-a638-9422e03c81e0)
+
+![image](https://github.com/user-attachments/assets/13d55719-4c7d-4bc9-a638-9422e03c81e0)
   
-- ![image](https://github.com/user-attachments/assets/3689361d-dbec-4d19-a9ed-ae73caa6c14f)
+![image](https://github.com/user-attachments/assets/3689361d-dbec-4d19-a9ed-ae73caa6c14f)
 
 
 
