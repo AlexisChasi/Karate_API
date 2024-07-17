@@ -51,6 +51,15 @@ el reporte se genera en una carpeta especifica al momento de ejecutar el test
 
  ![image](https://github.com/user-attachments/assets/708f8a5c-4edc-4438-a2b1-76bd0cdb9a04)
 
+# OBSERVACIONES 
+- al momento de realizar el singup de la API en karate me refleja un error message distinto al que deberia
+
+  ![image](https://github.com/user-attachments/assets/562c1c7d-3367-45c6-b199-92a1e2084cdb)
+
+- pero al realizarlo desde la web de demoblaze me sale correctamente el mensaje de 
+
+![image](https://github.com/user-attachments/assets/8fefa160-1845-452b-ba5a-040d82885e4a)
+
 
 
 
