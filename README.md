@@ -60,6 +60,15 @@ el reporte se genera en una carpeta especifica al momento de ejecutar el test
 
 ![image](https://github.com/user-attachments/assets/8fefa160-1845-452b-ba5a-040d82885e4a)
 
+# Cambios solicitados cosumo Json 
+
+![image](https://github.com/user-attachments/assets/d95b2b9c-377e-441a-9f4f-01ae0bc9c9b3)
+
+# Runner
+
+![image](https://github.com/user-attachments/assets/dded1dff-62dd-4529-9cc9-354a84d2a649)
+
+
 
 
 
